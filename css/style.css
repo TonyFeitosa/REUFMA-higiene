@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    height: 100hv;
+    box-sizing: border-box;
+    background-color: #F9F4E0;
+    color: black;
+}
+
+.imagem_de_fundo {
+    display: flex;
+    justify-content: center;
+}

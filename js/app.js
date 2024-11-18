@@ -1,6 +1,3 @@
-// test branch devlop
-
-
 let nomeMoradores = [
     'Adenilson Reis',
     'Antonio Caudio',
